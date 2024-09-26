@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    margin: 0 auto;
+}
+h1{
+    color: blue;
+}
+li{
+    color: black;
+    list-style: none;
+    text-align: left;
+}
